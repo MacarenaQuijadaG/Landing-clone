@@ -20,13 +20,13 @@ Asegúrate de tener instalados los siguientes software en tu máquina:
 1. **Clona el repositorio**:
 
     ```bash
-    git clone https://github.com/tu-usuario/tesla-clone.git
+    git clone https://github.com/MacarenaQuijadaG/Landing-clone
     ```
 
 2. **Navega al directorio del proyecto**:
 
     ```bash
-    cd tesla-clone
+    cd Landing-clone
     ```
 
 3. **Instala las dependencias**:
@@ -41,6 +41,7 @@ Asegúrate de tener instalados los siguientes software en tu máquina:
     npm start
     ```
 
-    El servidor se ejecutará en `http://localhost:3000`. Abre este enlace en tu navegador para ver la página.
+    El servidor se ejecutará en `http://localhost:4321`. Abre este enlace en tu navegador para ver la página.
 
-
+---
+⌨️ con ❤️ por [Macarena Quijada G](https://github.com/MacarenaQuijadaG)

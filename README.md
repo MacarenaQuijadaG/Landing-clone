@@ -1,21 +1,29 @@
-# Tesla Clone Website
+# Tesla Landing Page Clone
 
-Este proyecto es una clonación de la página web de Tesla, construida con Astro y estilizada con Tailwind CSS. El objetivo es practicar y demostrar habilidades en el desarrollo frontend utilizando tecnologías modernas.
+![Tesla](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/1200px-Tesla_Motors.svg.png)
+
+Este es un clon de la landing page de Tesla, construido con [Astro](https://astro.build/), HTML, CSS y [Tailwind CSS](https://tailwindcss.com/). El objetivo de este proyecto es recrear la estética moderna y limpia del sitio original de Tesla utilizando tecnologías frontend modernas.
 
 ## Tecnologías Utilizadas
 
-- [Astro](https://astro.build/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Node.js](https://nodejs.org/)
+- **Astro:** Un moderno framework de construcción web.
+- **HTML:** Estructura básica de la página.
+- **CSS:** Para estilos personalizados.
+- **Tailwind CSS:** Un framework CSS para un diseño altamente personalizable y eficiente.
 
-## Requisitos Previos
+## Visuales 
+![Captura de pantalla (61)](https://github.com/user-attachments/assets/587b8143-2783-4fee-bbc9-15afc92b3987)
 
-Asegúrate de tener instalados los siguientes software en tu máquina:
+## Características
 
-- Node.js (versión 14 o superior)
-- npm (versión 6 o superior)
+- Diseño responsivo que se adapta a diferentes dispositivos.
+- Animaciones suaves y modernas.
+- Optimización de imágenes y carga rápida de la página.
+- Fácil de modificar y extender.
 
 ## Instalación
+
+Sigue estos pasos para configurar el proyecto localmente:
 
 1. **Clona el repositorio**:
 

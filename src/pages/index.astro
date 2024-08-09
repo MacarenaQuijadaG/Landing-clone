@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 
 ---
 
-<Layout title="Welcome to Astro.">
+<Layout title="Tesla">
 	<main>
 		<header class="py-6 px-10 flex items-center fixed top-0 w-full justify-between z-40 text-white">
 			<div>
@@ -32,10 +32,21 @@ import Layout from '../layouts/Layout.astro';
 	</main>
 
 	<section class="bg-black h-screen w-screen text-center relative overflow-hidden">
-			<h2>Programe una prueba de conduccion</h2>
-			<a href="#">Prueba de conduccion</a>
-			<div class="absolute top-0 botton-0 h-full">
-				<video autoplay muted loop src="/video.webm"></video>
+		<div class="z-30 relative h-full flex flex-col">
+			<header>
+				<h2 class="text-white pt-40 text-[48px] font-medium">Disfrute de Tesla</h2>
+				<p class="text-white text-sm" >	Agende una prueba de conduccion</p>
+			</header>
+		
+			<footer class=" flex flex-col flex-grow justify-end pb-24">
+				<div>
+					<a class="border-2 rounded font-medium text-white px-6 py-2 inline-block" href="#">Solicitar Aqui</a>
+				</div>
+			</footer>
+		</div>	
+		
+			<div class="absolute top-0 botton-0 w-full h-full z-10">
+				<video class="object-center object-cover h-full w-full" autoplay muted loop src="/video.webm"></video>
 			</div>
 	</section>
 </Layout>

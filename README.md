@@ -1,6 +1,6 @@
 # Tesla Landing Page Clone
 
-![Tesla](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/1200px-Tesla_Motors.svg.png)
+![Tesla](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/200px-Tesla_Motors.svg.png)
 
 Este es un clon de la landing page de Tesla, construido con [Astro](https://astro.build/), HTML, CSS y [Tailwind CSS](https://tailwindcss.com/). El objetivo de este proyecto es recrear la estética moderna y limpia del sitio original de Tesla utilizando tecnologías frontend modernas.
 

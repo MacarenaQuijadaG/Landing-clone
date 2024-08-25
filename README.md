@@ -8,7 +8,6 @@ Este es un clon de la landing page de Tesla, construido con [Astro](https://astr
 
 - **Astro:** Un moderno framework de construcción web.
 - **HTML:** Estructura básica de la página.
-- **CSS:** Para estilos personalizados.
 - **Tailwind CSS:** Un framework CSS para un diseño altamente personalizable y eficiente.
 
 ## Visuales 
